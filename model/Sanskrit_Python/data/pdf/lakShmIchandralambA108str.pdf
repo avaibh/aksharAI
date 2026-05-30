@@ -1,0 +1,382 @@
+<!doctype html>
+<html itemscope itemtype="http://schema.org/WebPage">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name=viewport content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<link rel="shortcut icon" href="http://sanskritdocuments.org/favicon.ico">
+<meta name="ROBOTS" content="ALL">
+<base href="http://sanskritdocuments.org/">
+<link rev="made" href="mailto:sanskrit@cheerful.com">
+<meta itemprop="specialty" content="Sanskrit Language and Literature :  ">
+<meta itemprop="genre" content="संस्कृत साहित्य व स्तोत्र">
+<meta itemprop="publisher" content="http://sanskritdocuments.org/">
+<meta itemprop="author" content="sanskrit@cheerful.com">
+<meta itemprop="significantLink" content="http://sanskritdocuments.org/site_map.php">
+<meta name="keywords" itemprop="keywords" content="AratI,  , Sanskrit transliteration, samskrit, AratI in sanskrit, sanskrut, samskritam, sanskrita, samskrita, Indian language transliteration, bengali, tamil, telugu, kannada, odia, malayalam, oriya, punjabi, panjabi, oria, gurmukhi, devanagari, english transliteration, IAST, ITRANS, sanskrit documents, index, list, stotra, stotram, stotras, svara, namavali, links, etext, AratI e-texts, AratI texts, etexts,  ramayana, mahabharata, bhagavad, gita, shloka, subhashita, purana, vedic,  links, sanskritlinks, audio, devanagari pdf, sanskrit pdf, Siddhanta font, unicode sanskrit, utf-8 devanagari">
+<meta name="description" itemprop="description" content="Sanskrit Documents - AratI in Unicode Devanagari and Indian languages, IAST and ITRANS encoding as UTF-8 web pages, ITRANS itx files, Devanagari pdf files using xelatex, e-texts, in english transliteration, etexts, in IAST and ITRANS encoding"> 
+
+<link rel="stylesheet" href="http://sanskritdocuments.org/css/fonts.css" type="text/css" media="all" charset="utf-8">
+<link rel="stylesheet" href="http://sanskritdocuments.org/css/sandocs-indexes.css" type="text/css" media="screen">
+
+<link rel="stylesheet" href="http://sanskritdocuments.org/css/cssmenustyles.css">
+<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+<script src="http://sanskritdocuments.org/css/cssmenuscript.js"></script>
+<title itemprop="name">Sanskrit Documents : Not Found</title>
+</head>
+<body>
+<div id="wrapper">
+<div id="brand">
+<div id="sitename">
+<span title="sanskrit Documents ">संस्कृत Documents </span>
+<div id="search"></div>
+</div>
+</div>
+<!-- Start of cssmenu -->
+<div id="cssmenu">
+<ul>
+<li><a href="http://sanskritdocuments.org/" title="Sanskrit Documents Home" ><img src="./css/images/Home%2016.png" height="16" width="16"></a></li>
+<li class="has-sub"><a   title="Sanskrit Documents - by category">Category</a>
+<ul>
+<li><a href="./sanskrit/by-category/atharvashirsha.php" title="atharvashirsha">अथर्वशीर्ष</a></li>
+<li class="has-sub"><a  title="By Numbers">क्रमाङ्कानुसारेण</a>
+<ul>
+<li><a href="./sanskrit/by-category/ekashloki.php" title="1 ekashloki">एकश्लोकी</a></li>
+<li><a href="./sanskrit/by-category/panchaka.php" title="5 panchaka">पञ्चक</a></li>
+<li><a href="./sanskrit/by-category/pancharatna.php" title="5 pancharatna">पञ्चरत्न</a></li>
+<li><a href="./sanskrit/by-category/shatkam.php" title="6 ShaTka">षट्क</a></li>
+<li><a href="./sanskrit/by-category/ashtaka.php" title="8 ashtaka">अष्टक</a></li>
+<li><a href="./sanskrit/by-category/shataka.php" title="100 shataka">शतक</a></li>
+<li><a href="./sanskrit/by-category/ashtottarashatanama.php" title="108 ashtottarashatanama">अष्टोत्तरशतनामस्तोत्र</a></li>
+<li><a href="./sanskrit/by-category/ashtottarashatanamavali.php" title="108 ashtottarashatanamavali">अष्टोत्तरशतनामावली</a></li>
+<li><a href="./sanskrit/by-category/trishatinamavali.php" title="300 trishatinamavali">त्रिशतीनामावली</a></li>
+<li><a href="./sanskrit/by-category/trishati.php" title="300 trishati, 500 panchashati">त्रिशती, पञ्चशती</a></li>
+<li><a href="./sanskrit/by-category/sahasranama.php" title="1000 sahasranama">सहस्रनामस्तोत्र</a></li>
+<li><a href="./sanskrit/by-category/sahasranamavali.php" title="1000 sahasranamavali">सहस्रनामावली</a></li>
+<li><a href="./sanskrit/by-category/namavali.php/" title="all namavali">नामावली</a></li>
+</ul>
+</li>
+<li><a href="./sanskrit/by-category/gita.php" title="gita">गीता</a></li>
+<li><a href="./sanskrit/by-category/shloka.php" title="shloka">श्लोकसङ्ग्रह</a></li>
+<li><a href="./sanskrit/by-category/sukta.php" title="sukta">सूक्त</a></li>
+<li><a href="./sanskrit/by-category/sutra.php" title="sutra">सूत्र</a></li>
+<li  class="has-sub"><a href="./sanskrit/by-category/stotra.php" title="stotra">स्तोत्र</a>
+<ul>
+<li><a href="./sanskrit/by-category/aksharamala.php">अक्षरमाला</a></li>
+<li><a href="./sanskrit/by-category/aparadhakshama.php">अपराधक्षमा</a></li>
+<li><a href="./sanskrit/by-category/kavacha.php">कवच</a></li>
+<li><a href="./sanskrit/by-category/bhujanga.php">भुजंग</a></li>
+<li><a href="./sanskrit/by-category/malamantra.php">मालामंत्र</a></li>
+<li><a href="./sanskrit/by-category/mantra.php">मन्त्र</a></li>
+<li><a href="./sanskrit/by-category/raksha.php">रक्षा</a></li>
+<li><a href="./sanskrit/by-category/lahari.php">लहरी</a></li>
+<li><a href="./sanskrit/by-category/varnamala.php">वर्णमाला</a></li>
+<li><a href="./sanskrit/by-category/suprabhata.php">सुप्रभात</a></li>
+<li><a href="./sanskrit/by-category/stavaraja.php">स्तवराज</a></li>
+<li><a href="./sanskrit/by-category/stotra.php" title="stotra/stuti">स्तुति</a>
+<li><a href="./sanskrit/by-category/hridaya.php">हृदय</a></li>
+</ul>
+</li>
+<li><a href="./sanskrit/by-category/subhaashita.php" title="subhaashita">सुभाषित</a></li>
+<li><a href="./sanskrit/by-category/advice.php" title="advice">उपदेश</a></li>
+<li class="has-sub"><a href="./sanskrit/by-category/misc.php" title="misc">विविध</a>
+<ul>
+<li><a href="./sanskrit/by-category/arati.php" title="arati">आरती</a></li>
+<li><a href="./sanskrit/by-category/kriti.php">कृति</a></li>
+<li><a href="./sanskrit/by-category/gitam.php" title="gitam">गीत</a></li>
+<li><a href="./sanskrit/by-category/puja.php" title="puja">पूजा</a></li>
+<li><a href="./sanskrit/by-category/bhajana.php" title="bhajana">भजन</a></li>
+<li><a href="./sanskrit/by-category/misc.php" title="misc">विविध</a>
+</ul>
+</li>
+<li class="has-sub"><a  title="Other language documents">अन्य भाषा</a>
+<ul>
+<li><a href="./english/" title="English Documents">आङ्ग्लभाषा</a></li>
+<li><a href="./hindi/" title="Hindi Documents">हिन्दी</a></li>
+<li><a href="./marathi/" title="Marathi Documents">मराठी</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="has-sub"><a  title="Sanskrit Documents - by deity">Deity</a>
+<ul>
+<li><a href="./sanskrit/by-category/ganesha.php">गणेश</a></li>
+<li class="has-sub"><a href="./sanskrit/by-category/devii.php" title="devii">देवी</a>
+<ul>
+<li><a href="./sanskrit/by-category/durga.php" title="durga">दुर्गा</a></li>
+<li><a href="./sanskrit/by-category/parvati.php" title="parvati">पार्वती</a></li>
+<li><a href="./sanskrit/by-category/lakshmi.php" title="lakshmi">लक्ष्मी</a></li>
+<li><a href="./sanskrit/by-category/sarasvati.php" title="sarasvati">सरस्वती</a></li>
+<li><a href="./sanskrit/by-category/lalita.php" title="lalita">ललिता</a></li>
+<li><a href="./sanskrit/by-category/dashamahavidya.php" title="Kali, Tara, MahaTripuraSundari, Bhuvaneshvari, Chinnamasta, Bhairavi, Dhumavati, Bagalamukhi, Matangi, and Kamala">दशमहाविद्या</a></li>
+<li><a href="./sanskrit/by-category/shatchakrashakti.php" title="shatchakrashakti">षट्चक्रशक्ति</a></li>
+<li><a href="./sanskrit/by-category/kamakshi.php" title="kamakshi">कामाक्षी</a></li>
+<li><a href="./sanskrit/by-category/gayatri.php" title="gayatri">गायत्री</a></li>
+<li><a href="./sanskrit/by-category/tulasi.php" title="tulasi">तुलसी</a></li>
+<li><a href="./sanskrit/by-category/minakshi.php" title="minakshi">मीनाक्षी</a></li>
+<li><a href="./sanskrit/by-category/radha.php" title="radha">राधा</a></li>
+<li><a href="./sanskrit/by-category/renuka.php" title="renuka">रेणुका</a></li>
+<li><a href="./sanskrit/by-category/otherforms.php" title="otherforms">देवी अन्य रूप</a></li>
+<li><a href="./sanskrit/by-category/nadi.php" title="nadi">नदी</a></li>
+<li><a href="./sanskrit/by-category/doc_devii.php" title="ALL Devi - Alphabetical">सर्व देवी अवतार</a>
+</ul>
+</li>
+<li class="has-sub"><a href="./sanskrit/by-category/vishnu.php" title="vishnu">विष्णु</a>
+<ul>
+<li><a href="./sanskrit/by-category/raama.php" title="rama">राम</a></li>
+<li><a href="./sanskrit/by-category/krishna.php" title="krishna">कृष्ण</a></li>
+<li><a href="./sanskrit/by-category/dashavatara.php" title="dashavatara">दशावतार</a></li>
+<li><a href="./sanskrit/by-category/venkateshwara.php" title="venkateswara">वेंकटेश्वर</a></li>
+<li><a href="./sanskrit/by-category/vishnu_misc.php" title="vishnu's other avataras">विष्णु अन्य अवतार</a></li>
+<li><a href="./sanskrit/by-category/doc_vishhnu.php" title="ALL vishnu">सर्व विष्णु अवतार</a>
+</ul>
+</li>
+<li><a href="./sanskrit/by-category/shiva.php" title="shiva">शिव</a></li>
+<li><a href="./sanskrit/by-category/subrahmanya.php" title="subrahmanya">सुब्रह्मण्य</a></li>
+<li><a href="./sanskrit/by-category/hanumaana.php" title="hanumana">हनुमान</a></li>
+<li><a href="./sanskrit/by-category/navagraha.php" title="navagraha">नवग्रह</a></li>
+<li class="has-sub"><a href="./sanskrit/by-category/deities_misc.php" title="anya devata">अन्य देवता</a>
+<ul>
+<li><a href="./sanskrit/by-category/ayyappa.php" title="ayyappa">अय्यप्पा</a></li>
+<li><a href="./sanskrit/by-category/dattatreya.php" title="dattatreya">दत्तात्रेय</a></li>
+<li><a href="./sanskrit/by-category/gurudev.php" title="guru">देवतुल्य गुरु</a></li>
+<li><a href="./sanskrit/by-category/doc_deities_misc.php" title="ALL anya devata"> सर्व अन्य देवता</a>
+</ul>
+</li>
+</ul>
+</li>
+<li class="has-sub"><a href="./sanskrit/doc_z_misc_major_works/"  title="Major Sanskrit Works">Major Works</a>
+<ul>
+<li class="has-sub"><a>वेद</a>
+<ul>
+<li><a href="./sanskrit/doc_veda/" title="veda">वेद</a></li>
+<li><a href="./sanskrit/by-category/sukta.php" title="sukta">सूक्त</a></li>
+<li><a href="./sanskrit/by-category/mantra.php">मन्त्र</a></li>
+</ul>
+</li>
+<li class="has-sub"><a>प्रस्थानत्रयी</a>
+<ul>
+<li><a href="./sanskrit/doc_upanishhat/" title="upanishhat">उपनिषद्</a></li>
+<li><a href="./doc_z_misc_major_works/brahma_suutra.html?lang=sa" title="brahmasutra">ब्रह्मसूत्र</a></li>
+<li><a href="./sanskrit/bhagavadgita/" title="bhagavadgita">भगवद्गीता</a></li>
+</ul>
+</li>
+<li class="has-sub"><a>स्मृति</a>
+<ul>
+<li><a href="./sanskrit/samajashastra/" title="manu smriti">मनुस्मृति</a></li>
+</ul>
+</li>
+<li class="has-sub"><a>पुराण</a>
+<ul>
+<li><a href="./sanskrit/doc_purana/" title="purana">पुराण</a></li>
+<li><a href="./sanskrit/adhyatmaramayana/" title="adhyatma ramayana">अध्यात्म रामायण</a></li>
+<li><a href="./sanskrit/doc_giitaa/" title="otherforms">अन्य गीता</a></li>
+</ul>
+</li>
+<li class="has-sub"><a>वेदान्त</a>
+<ul>
+<li><a href="./sanskrit/doc_z_misc_shankara/" title="Adi Shankara">आदि शंकराचार्य</a></li>
+<li><a href="./sanskrit/vedanta/" title="vedanta">अन्य प्रकरण</a></li>
+</ul>
+</li>
+<li class="has-sub"><a>इतिहास</a>
+<ul>
+<li><a href="./mirrors/mahabharata/"  title="mahabharata">महाभारत</a></li>
+<li><a href="./mirrors/ramayana/" title="ramayana" >रामायण</a></li>
+</ul>
+</li>
+<li class="has-sub"><a>शास्त्र</a>
+<ul>
+<li><a href="./sanskrit/samajashastra/" title="artha shastra">अर्थशास्त्र</a></li>
+<li><a href="./sanskrit/jyotisha/" title="jyotisha">ज्योतिषशास्त्र</a></li>
+</ul>
+</li>
+<li class="has-sub"><a>भाषा/साहित्य</a>
+<ul>
+<li><a href="./sanskrit/kalidasa/" title="kalidasa">कालिदास</a></li>
+<li><a href="./sanskrit/amarakosha/" title="amarakosha">अमरकोश</a></li>
+<li><a href="./sanskrit/natyashastra/" title="natya shastra">नाट्यशास्त्र</a></li>
+<li><a href="./sanskrit/sahitya/" title="sahitya">अन्य साहित्य</a></li>
+</ul>
+</li>
+<li><a href="./sanskrit/tantra/" title="tantra">तन्त्र</a></li>
+<li><a href="./sanskrit/doc_yoga/" title="yoga">योग</a></li>   
+</ul>
+</li>  
+<li class="has-sub"><a href="./sites/"  title="Sanskrit Sites">Sites</a>
+<ul>
+<li class="has-sub"><a href="./sites/giirvaani/"  target="sites"  title="Giirvaani by DHR">गीर्वाणी</a>
+<ul>
+<li><a href="./sites/valmikiramayan/vr_index.htm"  target="sites"  title="Valmiki Ramayana">वाल्मीकि रामायण</a></li>
+<li><a href="./sites/giirvaani/giirvaani/gg_utf/gg_utf_intro.htm"  target="sites"  title="Gita Govinda">गीत गोविन्द</a></li>
+<li><a href="./sites/giirvaani/giirvaani/rv/intro_rv.htm"  target="sites"  title="Raghuvamsham">रघुवंशम्</a></li>
+<li><a href="./sites/giirvaani/giirvaani/bs/bs.htm"  target="sites"  title="Bharata Savitri">भारत सावित्री</a></li>
+<li><a href="./sites/giirvaani/giirvaani/rs/rs_intro.htm"  target="sites"  title="Ritusamharam">ऋतुसंहारम्</a></li>
+<li><a href="./sites/giirvaani/giirvaani/ss/ss.htm"  target="sites"  title="Shri Suktam">श्री सूक्तं</a></li>
+<li><a href="./sites/giirvaani/giirvaani/nataraja_symbolism/nataraja_symbolism.html"  target="sites"  title="Nataraja Symbolism">नटराज</a></li>
+<li><a href="./sites/giirvaani/giirvaani/skka/skka_intro.htm"  target="sites"  title="Shri Krishna Karnamritam">श्री कृष्ण कर्णामृतम्</a></li>
+<li><a href="./sites/giirvaani/giirvaani/sps/sps.htm"  target="sites"  title="Sita Parinaya Shloka Vyakhya">सीता परिणय श्लोक</a></li>
+<li class="last"><a href="./sites/giirvaani/giirvaani/ks/ks_intro.htm"  target="sites"  title="Kumarasambhavam">कुमारसम्भवम्</a></li>
+</ul>
+</li>
+<li><a href="./sites/completenarayaneeyam/"  target="sites"  title="Complete Narayaneeyam">नारायणीयम्</a></li>
+<li><a href="./sites/puja/"  target="sites"  title="Puja">पूजा</a></li>
+<li><a href="./sites/puranaindex/" target="sites"  title="Purana Subject Index">पुराण अनुक्रमणिका</a></li>
+<li><a href="./sites/ribhugita/"  target="sites"  title="Ribhugita (Shiva Rahasya)">ऋभुगीता</a></li>
+<li><a href="./sites/snsastri/index.html" target="sites"  title="S. N. Sastri">S. N. Sastri</a></li>
+<li><a href="./sites/sanskritforall/" target="sites"  title="Sanskrit for All">Sanskrit for All</a></li>
+<li><a href="./sites/SanskritGeetaRamayanam/"  target="sites"  title="Sanskrit Geet Ramayanam">संस्कृत गीत रामायणम्</a></li>
+<li><a href="./sites/setu/"  target="sites"  title="SETU">SETU</a></li>
+<li><a href="./sites/ramya475/"  target="sites"  title="Stotra Ratnas">स्तोत्र रत्न</a></li>
+<li><a href="http://www.surasa.net/"  target="sites"  title="surasa.net">surasa.net</a></li>
+<li><a href="./sites/umasahasram"  target="sites"  title="Uma Sahasram">उमा सहस्रम्</a></li>
+</ul>
+</li>
+<li><a href='./scannedbooks/' title="Scanned Sanskrit Books">Books</a></li>
+<li class="has-sub"><a title="Sanskrit Learning" >Learning</a>
+<ul>
+<li><a href="./learning_tools/index.php" title="Sanskrit Learning" >Learning</a>
+<li><a href="./doc_learningwikner/doc_learningwikner.php">Wikner's Tutorial</a></li>
+<li><a href="./dict/">Dictionary</a></li>
+<li><a href="./learning_tools/ashtadhyayi/" target="sites">Panini Ashtadhyayi</a></li>
+<li><a href="./doc_amarakosha/doc_amarakosha.php">Amarakosha</a></li>
+<li><a href="./learning_tools/Sanskritmetres/" target="sites">Sanskrit Metres Audio</a></li>
+<li><a href="./sanskritnews.php" title="AIR News in Sanskrit">AIR Sanskrit News</a></li>
+</ul>
+</li>
+<li class="has-sub"><a  title="Sanskrit Projects" >Projects</a>
+<ul>
+<li><a  title="Sanskrit Projects"  href="./doc_projects/doc_title.php">Projects</a>
+<li><a href="./doc_z_misc_vaakyasangraha/doc_vaakyasangraha.php" title="Vaakyasangraha">Vaakyasangraha</a></li>
+<li><a href="./doc_z_misc_subhaashita/doc_subhaashita.php"  title="Subhaashhita">Subhaashhita</a></li>
+<li><a href="./doc_projects/usergroups.php">User Groups</a></li>
+<li><a href="./doc_projects/volunteering.php">Volunteering</a></li>
+<li><a href="./doc_projects/docs_pending.php">Docs to Proofread</a></li>
+<li><a href="./doc_projects/docs_inprogress.php">Docs being Encoded</a></li>
+<li><a href="./doc_projects/docs_wishlist.php">Docs WishList</a></li>
+</ul>
+</li>
+<li class="has-sub"><a  title="Sanskrit related Links">Links</a>
+<ul>
+<li class="has-sub"><a title="Processing Tools" >Processing Tools</a>
+<ul>
+<li><a href="./processing_tools/index.php" >Processing Tools</a>
+<li><a href="http://www.aczoom.com/itrans/" title="Avinash Chopde's ITRANS 5.34" target="external">ITRANS</a></li>
+<li><a href="http://www.omkarananda-ashram.org/Sanskrit/" title="Omkarananda Ashram's Itranslator software and Sanskrit2003 font" target="external">Itranslator</a></li>
+<li><a href="http://www.virtualvinodh.com/aksharamkh/aksharamukha.php" title="Vinodh Rajan's aksharamukha v3.00" target="external">aksharamukha</a></li>
+<li><a href="http://www.learnsanskrit.org/tools/sanscript" title="Arun Prasad's Sanscript" target="external">sanscript</a></li>
+<li><a href="http://anubhav-chattoraj.github.io/indic-tools/devanagari_sorter/" title="Anubhav Chattoraj's Devanagari Sorter" target="external">Devanagari Sorter</a></li>
+<li><a href="http://www.google.com/inputtools/windows/" title="Google Input Tools on Windows-Choose Sanskrit as language" target="external">Google Input Tools</a></li>
+<li><a href="http://svayambhava.blogspot.in/p/siddhanta-devanagariunicode-open-type.html" title="Mihail Bayaryn's Vaidika Devanagari Input Method, Keyboard Layout and Fonts" target="external">Vaidika
+IME</a></li>
+<li><a href="http://www.mywhatever.com/sanskrit/vidyut/" title="Adolf von W?rttemberg and Les Morgan's Vidyut Sanskrit Keyboard" target="external">Vidyut Keyboard</a></li>
+</ul>
+</li>
+<li class="has-sub"><a  title="Sanskrit A/V links">Audio/Video</a>
+<ul>
+<li><a href="./news/" >AIR News in Sanskrit</a></li>
+<li><a href="./audio/" >Stotra Audios</a></li>
+<li><a href="./geet/" >Song Audios</a></li>
+<li><a href="./video/" >Videos</a></li>
+</ul>
+</li>
+<li><a href="http://sanskritlinks.blogspot.in/" target="external">Sanskrit Links Blog</a></li>
+<li><a href="./doc_links/links4_general.php" target="links">General Sanskrit</a></li>
+<li><a href="./indology/" target="links">Indology, Sanskrit</a></li>
+<li><a href="./gitalinks/" target="links">Bhagavad Gita</a></li>
+<li><a href="./doc_links/links3_scriptures.php" target="links">Scriptures, Stotras</a></li>
+<li><a href="./TextsElsewhere/" target="links">Texts Elsewhere</a></li>
+<li><a href="./books/" target="links">Bookstores, Courses</a></li>
+<li><a href="./newspapers/" target="links">Periodicals</a></li>
+<li><a href="./articles/" target="links">Contributed Articles</a></li>
+</ul>
+
+
+<li><div  itemscope itemtype="http://schema.org/WebSite" style="padding: 15px 5px;">
+<meta itemprop="url" content="http://sanskritdocuments.org/"/>
+<form itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" id=form-site-search action="http://sanskritdocuments.org/search.php" method=get>
+<div>
+<input id=site-search-input class=google-cse-input itemprop="query-input" type=text name=q size=10 x-webkit-speech />
+<input id=site-search-button type=submit value=Search />
+</div>
+</form>
+</div>
+</li>
+<li><a href='./sitemap/' >SITEMAP <img src="css/images/Sitemap%2016.png" title="Sitemap" alt="Sanskrit Documents Sitemap" height="16" width="16" style="margin: 0px 0px 0px 0px"></a></li>
+<li><a href='./faq/' >FAQ <img src="css/images/FAQ%2016.png" title="FAQ" alt="Sanskrit Documents FAQ" height="16" width="16" style="margin: 0px 0px 0px 0px"></a></li>
+<li>
+<a href="http://feeds.feedburner.com/sanskritdocuments" target="external" rel="alternate" type="application/rss+xml"><img src="css/images/RSS%2016.png" alt="Sanskrit Documents RSS feed" title="Subscribe to Sanskrit Documents RSS feed in reader" height="16" width="16" style="margin: 0px 0px 0px 0px"/></a></li>
+
+<!-- start multi-language-docs -->
+<li class="has-sub"><a title="Change Language/Script for viewing Sanskrit Documents"><img src="css/images/lang%2016.png" alt="Change Language Script" height="16" width="16" style="margin: 0px 0px 0px 0px"></a>
+<ul>
+<li><a href="./bengali/index.php">Bangla - বাংলা</a></li>
+<li><a href="./sanskrit/index.php">Devanagari - देवनागरी</a></li>
+<li><a href="./gujarati/index.php">Gujarati - ગુજરાતી</a></li>
+<li><a href="./punjabi/index.php">Gurmukhi (Punjabi) -  ਗੁਰਮੁਖੀ</a></li>
+<li><a href="./kannada/index.php">Kannada - ಕನ್ನಡ</a></li>
+<li><a href="./malayalam/index.php">Malayalam - മലയാളം</a></li>
+<li><a href="./odia/index.php">Odia - ଓଡ଼ିଆ</a></li>
+<li><a href="./tamil/index.php">Tamil - தமிழ்</a></li>
+<li><a href="./telugu/index.php">Telugu - తెలుగు</a></li>
+<li><a href="./iast/index.php">IAST (Roman)</a></li>
+<li><a href="./noteonotherfonts.php" title="Use aksharamukha by Vinodh Rajan to convert to other languages/scripts" >Others</a></li>
+</ul>
+</li>
+<!-- end multi-language-docs -->
+</ul>
+</div>
+<!-- End of cssmenu -->
+<div id="BodyHref">
+<div id="accordion-container">
+<h1 itemprop="headline" class="accordion-header" style="font-size:2em">
+We're sorry... 
+</h1>
+<div class="accordion-content"> 
+<ul>
+<p>
+<span style="font-style:italic; font-size:1.2em; font-weight:bold;">The page you're looking for could not be found on Sanskrit Documents website. It is possible that it has moved.</span>
+<p>
+Please use the <strong> search box</strong>  below to find it.
+<p> 
+<script>
+  (function() {
+    var cx = '007960454540906184509:rar81ul5qx8';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+<p>
+You can also browse the dropdown menu in the navigation bar above to find the document.
+</ul>
+</div>
+
+</div>
+<div id="SktDocsMENUfooter">
+<!-- Begin Footer Menu -->
+<hr>
+<div id="footermenu" style="text-align:center;">
+<a href="./" title="Sanskrit Documents Home" class="btn"><img src="favicon.ico" alt="Sanskrit Documents Icon" height="12" width="12" style="margin: 0px 0px 0px 0px"> Home</a>
+<a href="./sitemap/" class="btn">Sitemap</a>
+<a href="http://sanskritlinks.blogspot.in/" title="Sanskrit Studies - Links and Information" class="btn">Blog</a>
+<a href="./contrib_list.php" title="List of Contributors" class="btn">Contributors</a>
+<a href="./doc_projects/volunteering.php" title="Volunteering" class="btn">Volunteering</a>
+<a href="http://pub47.bravenet.com/guestbook/show.php?usernum=4020790271&amp;cpv=1" 	 title="GuestBook & Feedback"  class="btn">GuestBook</a>
+<a href="./sanskritfaq.php" title="Frequently Asked Questions" class="btn">FAQ</a>
+<a href="./search/" class="btn">Search</a>
+</div>
+<hr>
+<!-- End Footer Menu --></div> 
+</div>
+</div> 
+<div id="footer">
+<a itemprop="url" href="http://sanskritdocuments.org/">sanskritdocuments.org</a>
+</div>
+</body> 
+</html>
