@@ -1,0 +1,299 @@
+%
+% File CS_and_DH.tex
+%
+% Contact: apksh@uohyd.ernet.in (ambapradeep@gmail.com)
+%%
+%% Based on the style files for WSC_Skt_and_IT_World_2015, which were, in turn,
+%% Based on the style files for COLING2014, which were, in turn,
+%% Based on the style files for ACL-2014, which were, in turn,
+%% Based on the style files for ACL-2013, which were, in turn,
+%% Based on the style files for ACL-2012, which were, in turn,
+%% based on the style files for ACL-2011, which were, in turn, 
+%% based on the style files for ACL-2010, which were, in turn, 
+%% based on the style files for ACL-IJCNLP-2009, which were, in turn,
+%% based on the style files for EACL-2009 and IJCNLP-2008...
+
+%% Based on the style files for EACL 2006 by 
+%%e.agirre@ehu.es or Sergi.Balari@uab.es
+%% and that of ACL 08 by Joakim Nivre and Noah Smith
+
+\documentclass[11pt]{article}
+\usepackage{scl}
+\usepackage{times}
+\usepackage{url}
+\usepackage{latexsym}
+\usepackage{lineno}
+
+
+%% Stuff to use devanagari script within this document.
+%% You can use any Devanagari Unicode/UTF-8 font for Devanagari texts. 
+%% For that replace the font name `Sanskrit 2003' with your font name in below line `\newfontfamily\skt[Script=Devanagari]{Sanskrit 2003}'.
+%% For example,  if you are using `Mangal' unicode font then your line should be
+%% `\newfontfamily\skt[Script=Devanagari]{Mangal}' 
+%% To give your text(s) into Devanagari 
+%% mark your Devanagari text  with '\skt' tag, such as \skt{परिचयः}. Se
+%% See the below examples in devanagari.
+%% while using devanagari script, compile your latex code with `xelatex' command instead of pdflatex/latex. 
+
+\usepackage{fontspec, xunicode, xltxtra}
+\newfontfamily\skt[Script=Devanagari]{Sanskrit 2003}
+
+
+%\setlength\titlebox{5cm}
+
+% You can expand the titlebox if you need extra space
+% to show all the authors. Please do not make the titlebox
+% smaller than 5cm (the original size); we will check this
+% in the camera-ready version and ask you to change it back.
+
+
+\title{Instructions for the Submissions to \\Computational Sanskrit and Digital Humanities: WSC18}
+
+\author{First Author \\
+  Affiliation / Address line 1 \\
+  Affiliation / Address line 2 \\
+  Affiliation / Address line 3 \\
+  {\tt email@domain} \\\And
+  Second Author \\
+  Affiliation / Address line 1 \\
+  Affiliation / Address line 2 \\
+  Affiliation / Address line 3 \\
+  {\tt email@domain} \\}
+
+\date{}
+
+\begin{document}
+\maketitle
+\linenumbers
+\begin{abstract}
+  This document contains the instructions for preparing a
+  manuscript for submissions to  the section \textbf{Computational Sanskrit and Digital Humanities: WSC18}. 
+  The document itself
+  conforms to its own specifications, and is therefore an example of
+  what your manuscript should look like. These instructions should be
+  used for both manuscripts submitted for review and for final versions of
+  accepted papers.  Authors are asked to conform to all the directions
+  reported in this document.
+\end{abstract}
+
+\section{Introduction}
+\label{intro}
+
+%
+% The following footnote without marker is needed for the camera-ready
+% version of the paper.
+% 
+%\blfootnote{
+    %
+    % for review submission
+    %
+%}
+
+The following instructions are directed to authors of papers submitted
+to WSC18 under {\bf Computational Sanskrit and Digital Humanities} section.  All
+authors are required to adhere to these specifications. Authors are
+required to provide a Portable Document Format (PDF) version of their
+papers. \textbf{The proceedings are designed for printing on A4
+  paper.}
+
+\section{General Instructions}
+
+Manuscripts must be in single-column format.
+The title, authors' names and complete
+addresses
+must be centred at the top of the first page, and
+any full-width figures or tables (see the guidelines in
+Subsection~\ref{ssec:first}). {\bf Type single-spaced.}  Start all
+pages directly under the top margin. See the guidelines later
+regarding formatting the first page.  
+Do not number the pages.
+
+\subsection{Electronically-available resources}
+
+We strongly prefer that you prepare your PDF files using \LaTeX{} with
+the official scl.sty style file (scl.sty) and bibliography style
+(acl.bst). These files are available at
+% Please change the url to reflect the official WSC weblink
+\url{https://wsc.ubcsanskrit.ca/section-19/}.
+You will also find the document
+you are currently reading (CS\_and\_DH.pdf) and its \LaTeX{} source code
+(CS\_and\_DH.tex) on this website.
+
+\subsection{Format of Electronic Manuscript}
+\label{sect:pdf}
+
+For the production of the electronic manuscript you must use Adobe's
+Portable Document Format (PDF). PDF files are usually produced from
+\LaTeX{} using the \textit{pdflatex} command. If your version of
+\LaTeX{} produces Postscript files, you can convert these into PDF
+using \textit{ps2pdf} or \textit{dvipdf}.\\
+
+It is of utmost importance to specify the \textbf{A4 format} (21 cm
+x 29.7 cm) when formatting the paper. When working with
+{\tt dvips}, for instance, one should specify {\tt -t a4}.\\
+
+%If you cannot meet the above requirements for the
+%production of your electronic submission, please contact the
+%Amba Kulkarni (ambapradeep@gmail.com) as soon as possible.
+
+\subsection{Layout}
+\label{ssec:layout}
+
+Format manuscripts with a single column to a page, in the manner these
+instructions are formatted with A4 size.
+
+%\begin{itemize}
+%\item Left and right margins: 2.5 cm
+%\item Top margin: 2.5 cm
+%\item Bottom margin: 2.5 cm
+%\item Width: 16.0 cm
+%\item Height: 24.7 cm
+%\end{itemize}
+
+%\noindent Papers should not be submitted on any other paper size.
+
+\subsection{Fonts}
+For reasons of uniformity, Adobe's {\bf Times Roman} font should be
+used. In \LaTeX2e{} this is accomplished by putting 
+
+\begin{quote}
+\begin{verbatim}
+\usepackage{times}
+\usepackage{latexsym}
+\end{verbatim}
+\end{quote}
+in the preamble. If Times Roman is unavailable, use {\bf Computer
+  Modern Roman} (\LaTeX2e{}'s default).  Note that the latter is about
+  10\% less dense than Adobe's Times Roman font.
+
+\subsection{Devanagari support}
+For Devanagari support, we recommend you use the following packages: \\
+fontspec,xunicode and xltxtra. \\
+
+\textbackslash usepackage\{fontspec, xunicode, xltxtra\}\\
+
+Specify the Devanagri font, for example Sanskrit 2003, as below.\\
+
+\textbackslash newfontfamily\textbackslash skt[Script=Devanagari]\{Sanskrit 2003\}\\ \\
+
+We recommend {\bf Sanskrit 2003} for uniformity. However, in case you have a special requirement for any other font, you may use it by specifying it as above.\\
+
+Use of {\it newfontfamily\textbackslash skt} allows you to type your Sanskrit text directly in UTF.\\
+
+Here is an example with Devanagari text in tex.\\
+\{\textbackslash skt {\skt अधः श्लोकः एवं प्रस्तूयते -}\}\\
+\textbackslash begin\{verse\}\\
+\{\textbackslash skt {\skt वागर्थाविव संपृक्तौ वागर्थप्रतिपत्तये।}\}\\
+\{\textbackslash skt {\skt जगत: पितरौ वन्दे पार्वतीपरमेश्वरौ ।।}\}\\
+\textbackslash end\{verse\}\\\\
+
+After compilation the pdf looks like:- \\
+
+{\skt अधः श्लोकः एवं प्रस्तूयते -}
+\begin{verse}
+{\skt वागर्थाविव संपृक्तौ वागर्थप्रतिपत्तये।}\\
+{\skt जगत: पितरौ वन्दे पार्वतीपरमेश्वरौ ।।}
+\end{verse}
+
+Compile Latex files having Devanagari texts with {\bf xelatex} instead of pdflatex.
+
+\subsection{The First Page}
+\label{ssec:first}
+
+
+{\bf Title}: Place the title centred at the top of the first page.
+Long titles should be typed on two lines without a blank line intervening,
+followed by the
+author's names(s), and the affiliation on the following line. 
+Do not use footnotes for affiliations. \\
+
+Do not
+use only initials for given names (middle initials are allowed). Do
+not format surnames in all capitals (e.g., use ``Schlangen'' not
+``SCHLANGEN'').  \\
+
+Do not format title and section headings in all
+capitals as well except for proper names (such as ``BLEU'') that are
+conventionally in all capitals.  \\
+
+The affiliation should contain the
+author's complete address, and if possible, an electronic mail
+address. \\
+
+{\bf Abstract}: Type the abstract between addresses and main body.\\
+
+{\bf Text}: Begin typing the main body of the text immediately after
+the abstract. Do not include page numbers.\\
+
+Subsequent paragraphs are {\bf indented}.
+
+\subsection{Sections}
+
+{\bf Headings}: Type and label section and subsection headings in the
+style shown on the present document.  Use numbered sections (Arabic
+numerals) in order to facilitate cross references. Number subsections
+with the section number and the subsection number separated by a dot,
+in Arabic numerals. Do not number subsubsections.\\
+
+{\bf Citations}: Citations within the text appear in parentheses
+as~\cite{zen2}. If the author's name appears in the text as sentence constituent, cite as Huet~\shortcite{zen2}.\\
+
+Append lowercase letters to the year in cases of ambiguity. \\
+
+Treat double authors as in~\cite{scharf-hyman09}, but write as in~\cite{platform12} when more than two authors are involved. \\
+
+Collapse multiple citations as in~\cite{zen2,platform12}. 
+\\
+
+You can use the command \verb|\newcite| to get ``author (year)'' citations.\\
+
+\textbf{References}: Gather the full set of references together under
+the heading {\bf References}; place the section before any Appendices,
+unless they contain references. Arrange the references alphabetically
+by first author, rather than by order of occurrence in the text.
+Provide as complete a citation as possible, using a consistent format.\\
+
+%The \LaTeX{} and Bib\TeX{} style files provided roughly fit the
+%American Psychological Association format, allowing regular citations, 
+%short citations and multiple citations as described above.\\
+
+{\bf Appendices}: Appendices, if any, directly follow the text and the
+references (but see above).  Letter them in sequence and provide an
+informative title: {\bf Appendix A. Title of Appendix}.
+
+\subsection{Footnotes}
+
+{\bf Footnotes}: Put footnotes at the bottom of the page.
+They may be numbered or referred to by asterisks or other
+symbols.\footnote{This is how a footnote should appear.} 
+
+\subsection{Graphics}
+
+{\bf Illustrations}: Place figures, tables, and photographs in the
+paper near where they are first discussed, rather than at the end, if
+possible. 
+Colour illustrations are discouraged, unless you have verified that  
+they will be understandable when printed in black ink.\\
+
+{\bf Captions}: Provide a caption for every illustration; number each one
+sequentially in the form:  ``Figure 1. Caption of the Figure.'',  ``Table 1'', etc.\\
+
+%Narrow graphics together with the single-column format may lead to
+%large empty spaces.
+
+%If you have multiple graphics with related content, it may be
+%preferable to combine them in one graphic.
+%You can identify the sub-graphics with sub-captions below the
+%sub-graphics numbered (a), (b), (c) etc.\ and using 9 pt text.
+%The \LaTeX{} packages wrapfig, subfig, subtable and/or subcaption
+%may be useful.
+
+\section*{Acknowledgements}
+
+The acknowledgements should go immediately before the references.  Do
+not number the acknowledgements section.
+
+% include your own bib file like this:
+\bibliographystyle{acl}
+\bibliography{scl}
+\end{document}
